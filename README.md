@@ -57,9 +57,4 @@ The platform addresses the need for a centralized and efficient system to manage
 - Python and pip (for backend)
 - MongoDB
 
-### Backend Setup
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/best-practices-platform.git
-   cd best-practices-platform/backend
