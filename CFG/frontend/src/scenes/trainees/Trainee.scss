@@ -1,0 +1,47 @@
+
+.progress-bar 
+{
+    justify-content: center;
+}
+.information
+{
+    display: flex;
+    // height: 15rem;
+    justify-content: space-between;
+    background-color: rgb(18, 59, 59);
+    // height: 20rem;
+    align-items: end;
+    color: white;
+   
+}
+.information>img
+{
+    max-width: 20vw;
+    // max-height: 200vw;
+    border-radius: 150px;
+    padding: 2rem;
+   
+
+}
+.details
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid;
+    margin-left: 20vw;
+    margin-right: 20vw;
+    padding-top: 2vh;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+
+
+}
+// .information
+// {
+//     display: flex;
+//     justify-content: space-between;
+//     width: 100%;
+//     height: 30px;
+//     background-color: aquamarine;
+// }

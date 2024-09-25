@@ -1,0 +1,35 @@
+.queries-list {
+    h2 {
+      color: #4caf50; // Green color for the heading
+      margin-bottom: 20px;
+      font-size: 24px;
+      text-align: center;
+    }
+  
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      
+      th {
+        background-color: #4caf50; // Green background for headings
+        color: white; // White text for headings
+        padding: 12px;
+        text-align: left;
+      }
+      
+      td {
+        padding: 12px;
+        border: 1px solid #ddd;
+      }
+      
+      .query-row {
+        cursor: pointer;
+  
+        &:hover {
+          background-color: black; // Black background on hover
+          color: white; // White text on hover
+        }
+      }
+    }
+  }
+  

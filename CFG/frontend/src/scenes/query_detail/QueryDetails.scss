@@ -1,0 +1,28 @@
+.query-details {
+    padding: 20px;
+    // background-color: #ffffff74; // White background
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h2 {
+    color: #4caf50; // Green color for headings
+    font-size: 24px; // Normal font size for heading
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 16px; // Normal font size for paragraph text
+    color: white; // Black text color for normal content
+    margin: 10px 0;
+  }
+  
+  strong {
+    font-weight: bold;
+    color:#4caf50
+  }
+  
+  p:last-of-type {
+    margin-bottom: 0; // Remove bottom margin from the last paragraph
+  }
+  

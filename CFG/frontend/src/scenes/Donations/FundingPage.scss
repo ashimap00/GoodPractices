@@ -1,0 +1,79 @@
+.funding-page {
+    max-width: 800px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    color:black;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .government-contributions,
+  .voluntary-donations {
+    margin-bottom: 20px;
+  }
+  
+  .government-contributions ul,
+  .voluntary-donations ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .government-contributions li,
+  .voluntary-donations li {
+    margin-bottom: 10px;
+  }
+  
+  .donation-tool {
+    margin-bottom: 20px;
+  }
+  
+  .donation-tool form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .donation-tool label {
+    margin-bottom: 10px;
+  }
+  
+  .donation-tool input[type="number"] {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+  }
+  
+  .donation-tool button {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .donation-tool button:hover {
+    background-color: #3e8e41;
+  }
+  
+  .side-buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .side-buttons button {
+    width: 30%;
+    height: 40px;
+    padding: 10px;
+    font-size: 18px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: solid;}
