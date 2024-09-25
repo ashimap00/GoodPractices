@@ -1,0 +1,5 @@
+jpmc-cfg/
+backend/.env
+backend/api/__pycache__
+backend/backend/__pycache__
+frontend/node_modules
